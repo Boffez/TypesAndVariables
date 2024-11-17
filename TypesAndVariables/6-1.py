@@ -2,8 +2,8 @@
 # A program that calculates the number of characters
 # of your name, surname and full name
 #
-name = 'Julia'   # replace Anna with your name
-surname = 'Kumor' # replace May with your surname
+name = 'Patryk'   # replace Anna with your name
+surname = 'Ryłko' # replace May with your surname
 characters_in_name = len(name)
 characters_in_surname = len(surname)
 print(f'Your name has {characters_in_name} characters')
