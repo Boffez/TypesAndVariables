@@ -1,6 +1,6 @@
 ###
 # A program that prints your initials
 #
-name = 'Julia'
-surname = 'Kumor'
+name = 'Patryk'
+surname = 'Ryłko'
 print(name[0]+surname[0])
